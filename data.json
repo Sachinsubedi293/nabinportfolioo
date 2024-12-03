@@ -1,15 +1,23 @@
 {
   "name": "Nabin Ghimire",
   "age": "Unknown",
-  "image": "link",
+  "image": "https://via.placeholder.com/400",
   "socials": [
+    {
+      "title": "Facebook",
+      "link": "https://facebook.com"
+    },
+    {
+      "title": "GitHub",
+      "link": "https://github.com/nabinghimire"
+    },
     {
       "title": "LinkedIn",
       "link": "https://www.linkedin.com/in/nabinghimire/"
     },
     {
-      "title": "GitHub",
-      "link": "https://github.com/nabinghimire"
+      "title": "Twitter",
+      "link": "https://twitter.com"
     }
   ],
   "intro": "A passionate developer creating modern, responsive, and stunning websites and applications. Let's build something amazing together!"
